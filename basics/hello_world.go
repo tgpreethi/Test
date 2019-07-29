@@ -8,6 +8,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Welcome to Bellevue!")
+	fmt.Println("Welcome to Washington!")
 	fmt.Println("The time is", time.Now())
 }
